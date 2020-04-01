@@ -7,7 +7,3 @@ class Cat
     puts "meow!"
   end
 end
-
-maru.new
-maru.name = "Maru"
-maru.meow
